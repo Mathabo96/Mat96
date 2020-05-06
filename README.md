@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# Welcome to my page
+## *Thoriso Rampedi*
 
-You can use the [editor on GitHub](https://github.com/Mathabo96/Mat96/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://github.com/Thoriso95/Thori/blob/master/Thori%20Grad.png)
 
-### Markdown
+ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## About me
+*I am currently part of the Dimension Data Graduate Accelerate Program. I was a business analyst with 1 year experience in the property consulting space, coupled with 1 year of property management mainly of shopping centres. I have a good understanding of facilities management and workplace strategy. Solid communication and people skills.* 
 
-```markdown
-Syntax highlighted code block
+ 
 
-# Header 1
-## Header 2
-### Header 3
+# Work Experience 
 
-- Bulleted
-- List
+ 
 
-1. Numbered
-2. List
+*Company: Dimension Data  
+*Date: February 2019 - Present 
 
-**Bold** and _Italic_ and `Code` text
+ 
 
-[Link](url) and ![Image](src)
-```
+*Role: Graduate Intern 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ 
 
-### Jekyll Themes
+*Company: Rampedi Farming   
+*Date: January 2019 - Present  
+*Role: Director 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mathabo96/Mat96/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ 
 
-### Support or Contact
+*Company: Betapoint   
+*Date: January 2018 - December 2018  
+*Role: Business Analsyt
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 
+
+## Skills 
+>
+> - Data collection and analysis
+> - Facilities Management 
+> - Workplace Design
+> - People Skills 
+> - Problem Solving 
+> - Adaptability 
+
+ 
+
+## Training outside formal education 
+>
+> - First Aid 2017
+> - Basic fire fighting 2017
+> - Health and safety 2017
+> - Pig production 2019
